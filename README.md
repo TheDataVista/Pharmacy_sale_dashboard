@@ -42,13 +42,14 @@ The dashboard provides a comprehensive view of revenue, profitability, sales gro
 
 ### 📸 Dashboard Preview
 
-![Pharmacy Dashboard](images/pharmacy-dashboard.png)
+![Pharmacy Dashboard](Screenshot 2026-02-19 213842.png)
 
 ---
 
 ### 🌐 Live Dashboard
 
-[Pharmacy_sales_dashboard]([https://lnkd.in/dUubTHCB](https://app.powerbi.com/view?r=eyJrIjoiYjIyYjg4OWQtMTJkMC00NGJjLWI4MTEtMDViZDk2NDc2MDE0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+[Pharmacy_sales_dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjIyYjg4OWQtMTJkMC00NGJjLWI4MTEtMDViZDk2NDc2MDE0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
 
 ---
 
