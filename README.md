@@ -42,7 +42,7 @@ The dashboard provides a comprehensive view of revenue, profitability, sales gro
 
 ### 📸 Dashboard Preview
 
-![Pharmacy Dashboard](Screenshot 2026-02-19 213842.png)
+[Pharmacy Dashboard] (Screenshot 2026-02-19 213842.png)
 
 ---
 
